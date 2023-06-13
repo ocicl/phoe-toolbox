@@ -1,0 +1,10 @@
+* phoe-toolbox
+
+Personal utility library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/phoe-toolbox.git   |
+| commit  | c8cfe4b  |
+| systems | phoe-toolbox |
+|---------+-------------------------------------------|
+
